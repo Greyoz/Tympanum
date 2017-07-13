@@ -187,9 +187,9 @@ var
   ohm,temp: Extended;
 const
   //Coefficients for temp(K°) = f(Ω)
-  c1 = 0.001605287984;
-  c2 = 0.0002098463630;
-  c3 = 0.0000002818644450;
+  c1 = 0.0014712260;
+  c2 = 0.00023762276;
+  c3 = 0.00000010502722;
   //Constant to be subtraced from temp(K°) to obtain temp(C°)
   c4 = 273.15;
 
